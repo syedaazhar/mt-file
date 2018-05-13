@@ -244,3 +244,25 @@ span.navbar-toggler-icon
 {
     font-size: x-large;
 }
+.organisers-img
+{
+    width: 137px;
+    height: 130px;
+    background-position: center;
+    background-size:cover;
+    /* display: inline-block; */
+    /* margin: 11px 10px 11px 15px; */
+    position: absolute;
+    right:26px;
+    bottom:420px;
+}
+.modal-body
+{
+    position: relative;
+}
+.Sadaffes-details-para1
+{
+    margin-top: 5px;
+    padding-right: 160px;
+    text-indent: 67px;
+}
