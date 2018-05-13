@@ -1,0 +1,246 @@
+body
+{
+    font-family: 'Hind', sans-serif;
+    margin: 0;
+}
+header
+{
+    display: flex;
+    
+    
+}
+.logo
+{
+    width: 129px;
+    height: 39px;
+    background-position: center;
+    background-size:cover;
+    display: inline-block;
+    margin: 11px 10px 11px 15px;
+   
+}
+.navbar
+{
+    /* position:sticky;
+    top:0;
+     */
+}
+h2
+{
+    color:#bea668; 
+    font-size: 30px;
+    font-family: 'Contrail One', cursive; 
+   margin-top: 11px;
+}
+span
+{
+    font-size: 20px;
+    margin-left:20px ;
+
+}
+
+.navbar-nav > .nav-item > .nav-link, .navbar > .navbar-brand
+{
+    color:#bea668;
+    font-weight: bold;
+    font-family: 'Hind', sans-serif;
+    font-size: 18px;
+}
+.navbar  > .navbar-brand:hover, .navbar-nav > .nav-item > .nav-link:hover
+{
+ color: #bea668;
+}
+.navbar-nav > .nav-item > .nav-link
+{
+    margin:0 12px ;
+}
+.btn
+{
+    border: none;
+    background-color: #fff;
+    color:#bea668;
+    font-weight: bold;
+    font-family: 'Hind', sans-serif;
+    font-size: 18px;
+}
+.button:focus
+{
+outline: none;
+}
+.navbar  > .navbar-brand:focus, .collapse > .navbar-nav > .nav-item:focus
+{
+    color:#bea668;
+}
+.collapse > .btn:hover
+{
+   color:#bea668!important;
+   background-color: #fff!important;
+}
+.form-inline > .form-control > .btn:active
+{
+  outline: none!important;
+} 
+.form-control
+{
+    border:1px solid #bea668;
+}
+#carouselExampleControls
+{
+    z-index: -1;
+}
+.venue
+{
+    font-weight: bold;
+}
+.icon
+{
+    margin: 0 ;
+}
+.icon > strong
+{
+    margin:0 21px; 
+}
+.display-4
+{
+    color:#bea668;
+    font-size: 35px; 
+}
+.col-2 > .display-4
+{
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
+.contact
+{
+    font-size: 16px;
+    margin: 5px 20px;
+}
+h5
+{
+   margin: 15px 0;
+}
+.join-us > a
+{
+    font-size: 18px;
+    border-radius: 50px;
+    padding:4px 9px;
+    border: none;
+    margin: 3px;
+    border:1px solid darkgray;
+    color: black;
+    background-color: darkgray;
+}
+.join-us > a:nth-child(3)
+{
+    padding: 4px 14px;
+}
+.sponsor-1
+{
+    width: 104px;
+    height: 33px;
+    margin: ;
+    background-position: center;
+    background-size:cover;
+   
+}
+.sponsor-2
+{
+    width: 75px;
+    height: 105px;
+    background-position: center;
+    background-size:cover;
+    
+    
+}
+.sponsor-3
+{
+    width: 96px;
+    height: 67px;
+    background-position: center;
+    background-size:cover;
+    
+}
+
+.display-5
+{
+    justify-content: center;
+    color: #bea668;
+}
+.sponsor-img
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section
+{
+    display: flex;
+    flex-wrap: wrap; 
+    margin:20px  ;
+    padding: 20px;
+}
+.card-deck > .card
+{
+    text-align: center;
+}
+.card
+{
+    margin:20px 0 ;
+}
+.project-price
+{
+    font-weight:bold; 
+    color: #bea668;
+}
+.project-size
+{
+    font-weight: bold;
+    color: darkgray;
+}
+.card > .btn
+{
+    /* display: none; */
+}
+.card:hover .btn
+{
+    display: inline;
+    background-color: #e9ecef;
+ 
+}
+div.jumbotron
+{
+    margin: 0;
+}
+button.navbar-toggler
+{
+    padding: 4px 17px 4px 0px;
+}
+span.navbar-toggler-icon
+{
+    font-size: x-large;
+}
+.join-us {
+    text-align: center;
+    margin: 1em;
+}
+
+.modal-body > * {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.modal-body > h3 {
+    margin-bottom: 0;
+}
+
+.modal-body > p {
+    margin-top: 0;
+}
+button.navbar-toggler
+{
+    padding: 4px 17px 4px 0px;
+}
+span.navbar-toggler-icon
+{
+    font-size: x-large;
+}
