@@ -12,7 +12,7 @@ header
 .logo
 {
     width: 129px;
-    height: 39px;
+    height:36px;
     background-position: center;
     background-size:cover;
     display: inline-block;
@@ -215,10 +215,10 @@ button.navbar-toggler
 {
     padding: 4px 17px 4px 0px;
 }
-span.navbar-toggler-icon
+/* span.navbar-toggler-icon
 {
     font-size: x-large;
-}
+} */
 .join-us {
     text-align: center;
     margin: 1em;
