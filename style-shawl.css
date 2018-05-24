@@ -173,16 +173,18 @@ h5
     align-items: center;
     justify-content: center;
 }
-section
+.card-deck
 {
     display: flex;
     flex-wrap: wrap; 
     margin:20px  ;
-    padding: 20px;
+    padding: 2px;
 }
 .card-deck > .card
 {
     text-align: center;
+    min-width: 280px;
+    margin:20px  ;
 }
 .card
 {
